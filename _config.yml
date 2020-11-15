@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : drd blog
 description         : >-
-                      :coffee: 코딩을 사랑하는 <br>
+                      코딩을 사랑:beating heart:하는 <br>
                       꾸준히 성장하고 싶은 개발자 입니다.
 baseurl             : "/"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : drd92dev/drd92dev.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
